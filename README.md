@@ -19,6 +19,8 @@ This project is part of my learning journey into AI agents, LLM integration, and
 - OpenAI Python SDK (for Ollama's OpenAI-compatible API)
 - Requests
 - Python-dotenv
+- LLM: Qwen3:4b
+- LLM Runtime:Ollama
 
 ## Project Structure
 
@@ -40,6 +42,7 @@ astra-ai-personal-assistant/
 - Python installed on your system.
 - Ollama installed and running.
 - A compatible language model downloaded through Ollama.
+- ollama pull qwen3:4b
 
 ### 2. Clone the repository
 
